@@ -98,7 +98,7 @@ function large() {
 // assets (Number),
 // then return a closure function:
 // The closure function will take in a parameter: liabilities (Number)
-// The closure function will returns the combined value of assets and liabilities.
+// The closure function will return the combined value of assets and liabilities.
 
 // CODE HERE...
 
